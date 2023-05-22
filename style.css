@@ -1,0 +1,30 @@
+
+
+.profile-picture{
+    width: 200px;
+    height: 200px;
+    border: 1px solid lightblue;
+    margin-bottom: 10px;
+    border-radius: 50%;
+    
+}
+#name{
+    text-transform: capitalize;
+    color: #223033;
+}
+.FrontEnd{
+    color: rgb(24, 123, 156);
+}
+.banner{
+    margin: 30px;
+}
+.cont{
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    border: none;
+}
+p{
+    width: 500px;
+    text-align: justify;
+}
